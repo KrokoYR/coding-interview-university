@@ -309,6 +309,7 @@ This is a shorter list than what I used. This is abbreviated to save you time.
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
+- [ ] [Introduction to Algorithms by Thomas H. Cormen](https://www.amazon.com/Data-Structures-Thomas-H-Cormen-Algorithms/s?rh=n%3A132570011%2Cp_lbr_one_browse-bin%3AThomas+H.+Cormen)
 
 <details>
 <summary>If you have tons of extra time:</summary>
@@ -1435,6 +1436,9 @@ Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
+
+Example of exercises:
+<img src="extras/cheat-sheets/list.jpg" />
 
 </details>
 
